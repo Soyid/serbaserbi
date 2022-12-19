@@ -1,5 +1,5 @@
-# gol3-6dts-training-html
-Project tugas web statis, HTML, CSS, 
+
+Project web statis, HTML, CSS, 
 
 printah git clone base
 - git init
